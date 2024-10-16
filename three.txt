@@ -1,0 +1,1 @@
+welcome to writeFile method in nodejs
